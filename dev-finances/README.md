@@ -43,5 +43,4 @@ You can view the project layout through
 This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
-
-Made with ♥ by Anna Laura.
+<p align="center">Made with ♥ by [Anna Laura](https://github.com/alauraivani) .</p>
