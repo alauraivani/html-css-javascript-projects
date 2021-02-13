@@ -1,4 +1,4 @@
-<h1 align="center">HTML-CSS-JavaScript frontend projects</h1>
+<h1 align="center">HTML CSS JavaScript projects</h1>
 
 <p align="center">
   <img src="./.github/html_logo.png" alt="HTML" width="100"/>
